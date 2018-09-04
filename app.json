@@ -1,0 +1,15 @@
+{
+  "expo": {
+   "name": "Bid2Build",
+   "icon": "./Resources/icon.png",
+   "version": "1.0.0",
+   "slug": "Bid2Build",
+   "sdkVersion": "25.0.0",
+   "ios": {
+     "bundleIdentifier": "com.humachines.bid2build"
+   },
+   "android": {
+     "package": "com.humachines.bid2build"
+   }
+  }
+}
